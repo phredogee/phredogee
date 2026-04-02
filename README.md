@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Alfredo Garza 👋
 
-<!--
-**phredogee/phredogee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML student passionate about building intelligent tools using machine learning, natural language processing, and large language models.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying AI & Machine Learning
+- 🤖 Interested in LLMs, semantic search, and NLP pipelines
+- 🏈 Built an AI-powered fantasy football advisor using FAISS and OpenAI
+- 📍 Based in the US
+- 💼 Open to internships and entry-level roles in AI/ML and data science
+
+## Tech Stack
+
+**Languages:** Python, SQL
+
+**AI / ML:** scikit-learn, HuggingFace Transformers, FAISS, NLTK, spaCy
+
+**Tools & Frameworks:** Jupyter Notebook, Poetry, pytest, Git, Slack API
+
+**Currently learning:** LangChain, RAG architectures, model fine-tuning
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [GridIron GPT](https://github.com/phredogee/gridiron_gpt) | AI-powered fantasy football advisor using semantic search and LLMs | Python, FAISS, OpenAI, HuggingFace |
+| [NewsBot NLP Pipeline](https://github.com/phredogee/ITAI2373-NewsBot-Midterm) | NLP pipeline for news classification using Naive Bayes, SVM, and Logistic Regression | Python, NLTK, spaCy, scikit-learn |
+| [ML Midterm EDA](https://github.com/phredogee/ITAI-1371-ML-Midterm-EDA) | Exploratory data analysis and ML modeling on income classification dataset | Python, Jupyter, scikit-learn |
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alfredo-c-garza/)
+[![Email](https://img.shields.io/badge/Email-phredogee71%40gmail.com-red?logo=gmail)](mailto:phredogee71@gmail.com)
