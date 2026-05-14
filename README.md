@@ -6,7 +6,7 @@ I'm an AI/ML student passionate about building intelligent tools using machine l
 
 * 🎓 Studying AI & Machine Learning
 * 🔍 Interested in LLMs, semantic search, and NLP pipelines
-* 🏈 Built an AI-powered fantasy football advisor using FAISS and OpenAI
+* 🤖 Built an AI-powered fantasy football advisor using FAISS and OpenAI
 * 📍 Based in the US
 * 💼 Open to internships and entry-level roles in AI/ML and data science
 
@@ -23,7 +23,7 @@ I'm an AI/ML student passionate about building intelligent tools using machine l
 | Project | Description | Tech |
 | --- | --- | --- |
 | [GridIron GPT](https://github.com/phredogee/gridiron_gpt) | ESPN pipeline, dry-run diagnostics, and semantic auditing | Python, FAISS, OpenAI, HuggingFace, LangChain, Xonsh, Express, Alembic |
-| [NewsBot NLP Pipeline](https://github.com/phredogee/ITAI2373-NewsBot-Midterm) | NLP pipeline for news classification using Naive Bayes, SVM, and Logistic Regression | Python, NLTK, spaCy, scikit-learn |
+| [NewsBot NLP Pipeline v2.0](https://github.com/phredogee/ITAI2373-NewsBot-Final) | NLP pipeline for news classification (v2.0). Features enhanced classification and updated models (Transformer-based). | Python, NLTK, spaCy, scikit-learn, Transformers |
 | [ML Midterm EDA](https://github.com/phredogee/ITAI-1371-ML-Midterm-EDA) | Exploratory data analysis and ML modeling on income classification dataset | Python, Jupyter, scikit-learn |
 
 ## Connect
