@@ -24,7 +24,7 @@ I'm an AI/ML student passionate about building intelligent tools using machine l
 | --- | --- | --- |
 | [GridIron GPT](https://github.com/phredogee/gridiron_gpt) | ESPN pipeline, dry-run diagnostics, and semantic auditing | Python, FAISS, OpenAI, HuggingFace, LangChain, Xonsh, Express, Alembic |
 | [NewsBot NLP Pipeline v2.0](https://github.com/phredogee/ITAI2373-NewsBot-Final) | NLP pipeline for news classification (v2.0). Features enhanced classification and updated models (Transformer-based). | Python, NLTK, spaCy, scikit-learn, Transformers |
-| [ML Midterm EDA](https://github.com/phredogee/ITAI-1371-ML-Midterm-EDA) | Exploratory data analysis and ML modeling on income classification dataset | Python, Jupyter, scikit-learn |
+| [IncidentIQ-AI](https://github.com/phredogee/IncidentIQ-AI) | Exploratory data analysis and ML modeling on income classification dataset | Python, Jupyter, scikit-learn |
 
 ## Connect
 
