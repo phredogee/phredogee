@@ -22,8 +22,8 @@ I'm an AI/ML student passionate about building intelligent tools using machine l
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [NewsBot 2.0](https://github.com/phredogee/newsbot_v2) | AI-powered news intelligence dashboard featuring live RSS ingestion, NLP pipelines, sentiment analysis, topic classification, signal detection, interactive Streamlit analytics, and AI-generated executive briefings with resilient fallback workflows | Python, Streamlit, Pandas, OpenAI API, NLP, RSS ingestion, sentiment analysis, topic modeling |
 | [GridIron GPT](https://github.com/phredogee/gridiron_gpt) | An end-to-end fantasy football advisor featuring automated data retrieval pipelines, semantic auditing via vector embeddings, and multi-tier dry-run diagnostics to optimize lineup decisions | Python, FAISS, OpenAI, HuggingFace, LangChain, Xonsh, Express, Alembic |
-| [NewsBot NLP Pipeline v2.0](https://github.com/phredogee/ITAI2373-NewsBot-Final) | A production-ready news intelligence system evolved from a LinearSVC baseline into a modular architecture featuring advanced text classification, LDA topic modeling, multilingual support, and LLM-driven summarization | Python, scikit-learn, HuggingFace Transformers, LDA, spaCy, NLTK, Jupyter Notebook |
 | [IncidentIQ-AI](https://github.com/phredogee/IncidentIQ-AI) | Automated IT incident classification and routing pipeline utilizing NLP to analyze support tickets | Python, scikit-learn, HuggingFace Transformers, pandas, FastAPI |
 
 ## Connect
